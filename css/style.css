@@ -1,0 +1,24 @@
+#landing {
+}
+
+#top-0 {
+	background-color: #95C7D8;
+	height: 100vh;
+	padding: 10%;
+	background-image: url('../img/child-bg.png');
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+#head-child {
+
+}
+
+#section-3 {
+	background: #C2D595;
+}
+
+#section-5 {
+	background: #F7D894;
+}
